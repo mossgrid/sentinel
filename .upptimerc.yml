@@ -16,7 +16,7 @@ status-website:
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://mossgrid.netlify.app/mg.png
   name: sentinel
-  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  theme: light
   introTitle: "**Sentinel**: status page for Mossgrid services"
   introMessage: we're a group of friends on a mission to empower Nigeria through technology. At MossGrid, we're building both open-source and profit-driven software that addresses Nigeria's unique needs. 
   navbar:
