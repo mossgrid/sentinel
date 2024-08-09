@@ -1,5 +1,23 @@
 [
   {
+    "name": "buymezobo core",
+    "url": "https://buymezobo.ng",
+    "icon": "https://icons.duckduckgo.com/ip3/buymezobo.ng.ico",
+    "slug": "buymezobo-core",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 260,
+    "timeDay": 260,
+    "timeWeek": 260,
+    "timeMonth": 260,
+    "timeYear": 260,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "buymezobo dev",
     "url": "https://buymezobo.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/buymezobo.vercel.app.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 233,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "time": 169,
+    "timeDay": 189,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   }
 ]
