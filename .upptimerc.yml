@@ -7,6 +7,9 @@ sites:
     url: https://buymezobo.ng
   - name: buymezobo dev
     url: https://buymezobo.vercel.app/
+  - name: buymezobo core
+    url: https://core.buymezobo.ng/api/healthcheck
+
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
@@ -19,8 +22,8 @@ status-website:
   logoUrl: https://mossgrid.netlify.app/mg.png
   name: sentinel
   theme: light
-  introTitle: "**Sentinel**: status page for Mossgrid services"
-  introMessage: we're a group of friends on a mission to empower Nigeria through technology. At MossGrid, we're building both open-source and profit-driven software that addresses Nigeria's unique needs. 
+  introTitle: "**Sentinel**"
+  introMessage: status page for mossgrid services. 
   navbar:
     - title: Status
       href: /
