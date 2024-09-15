@@ -1,7 +1,7 @@
 url: https://core.buymezobo.ng/api/healthcheck
-status: up
-code: 200
-responseTime: 316
-lastUpdated: 2024-09-14T23:19:08.831Z
+status: down
+code: 502
+responseTime: 391
+lastUpdated: 2024-09-15T02:42:57.120Z
 startTime: 2024-09-07T13:25:52.664Z
 generator: Upptime <https://github.com/upptime/upptime>
