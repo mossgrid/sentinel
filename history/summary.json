@@ -40,7 +40,7 @@
     "url": "https://core.buymezobo.ng/api/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/core.buymezobo.ng.ico",
     "slug": "api-buymezobo",
-    "status": "up",
+    "status": "down",
     "uptime": "97.06%",
     "uptimeDay": "94.76%",
     "uptimeWeek": "95.33%",
