@@ -40,16 +40,16 @@
     "url": "https://core.buymezobo.ng/api/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/core.buymezobo.ng.ico",
     "slug": "api-buymezobo",
-    "status": "up",
-    "uptime": "97.09%",
-    "uptimeDay": "95.24%",
+    "status": "down",
+    "uptime": "97.15%",
+    "uptimeDay": "95.23%",
     "uptimeWeek": "97.02%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "97.09%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "97.15%",
     "time": 2229,
-    "timeDay": 4996,
+    "timeDay": 6168,
     "timeWeek": 2334,
-    "timeMonth": 2151,
+    "timeMonth": 2163,
     "timeYear": 2229,
     "dailyMinutesDown": {
       "2024-11-05": 44,
@@ -101,7 +101,7 @@
       "2024-09-12": 64,
       "2024-09-11": 18,
       "2024-09-10": 90,
-      "2024-09-09": 142
+      "2024-09-09": 95
     }
   }
 ]
