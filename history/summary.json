@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 540,
-    "timeWeek": 627,
-    "timeMonth": 557,
-    "timeYear": 569,
+    "time": 566,
+    "timeDay": 384,
+    "timeWeek": 619,
+    "timeMonth": 553,
+    "timeYear": 566,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 82,
+    "timeDay": 116,
     "timeWeek": 186,
-    "timeMonth": 129,
+    "timeMonth": 130,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -42,17 +42,17 @@
     "slug": "api-buymezobo",
     "status": "up",
     "uptime": "97.64%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "96.45%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "96.47%",
     "uptimeYear": "97.64%",
-    "time": 2155,
-    "timeDay": 2811,
-    "timeWeek": 1718,
-    "timeMonth": 2236,
-    "timeYear": 2155,
+    "time": 2150,
+    "timeDay": 499,
+    "timeWeek": 1760,
+    "timeMonth": 2237,
+    "timeYear": 2150,
     "dailyMinutesDown": {
-      "2024-11-15": 48,
+      "2024-11-15": 37,
       "2024-11-14": 20,
       "2024-11-13": 16,
       "2024-11-10": 65,
@@ -99,7 +99,8 @@
       "2024-09-25": 37,
       "2024-09-23": 18,
       "2024-09-21": 16,
-      "2024-09-20": 115
+      "2024-09-20": 115,
+      "2024-09-19": 19
     }
   }
 ]
