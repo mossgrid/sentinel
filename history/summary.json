@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 1163,
-    "timeWeek": 2503,
-    "timeMonth": 1014,
-    "timeYear": 744,
+    "time": 760,
+    "timeDay": 2046,
+    "timeWeek": 1965,
+    "timeMonth": 1054,
+    "timeYear": 760,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 383,
-    "timeWeek": 967,
-    "timeMonth": 323,
-    "timeYear": 191,
+    "time": 193,
+    "timeDay": 432,
+    "timeWeek": 425,
+    "timeMonth": 333,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.buymezobo.ng.ico",
     "slug": "api-buymezobo",
     "status": "up",
-    "uptime": "97.93%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "97.93%",
-    "time": 2096,
-    "timeDay": 414,
-    "timeWeek": 1806,
-    "timeMonth": 1755,
-    "timeYear": 2096,
+    "uptime": "97.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "97.56%",
+    "uptimeYear": "97.94%",
+    "time": 2091,
+    "timeDay": 367,
+    "timeWeek": 531,
+    "timeMonth": 1784,
+    "timeYear": 2091,
     "dailyMinutesDown": {
-      "2024-11-26": 10,
       "2024-11-25": 17,
       "2024-11-22": 15,
       "2024-11-21": 30,
@@ -104,7 +103,7 @@
       "2024-09-28": 16,
       "2024-09-27": 42,
       "2024-09-26": 116,
-      "2024-09-25": 21
+      "2024-09-25": 37
     }
   }
 ]
